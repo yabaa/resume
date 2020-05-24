@@ -3,30 +3,39 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yahya Baassou
+title: Backend Software Engineer
+email: yahyabaassou@gmail.com
+website: https://yabaa.github.io/resume/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  yabaa
+flickr_username: yahyabaassou
+instagram_username: yahya.baa
+linkedin_username: yahya-baassou-9a3ba0b6
+# twitter_username: facespics
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, constantly looking for new projects and new technologies, I devote a real passion for software development. I have 8 years of experience as Java developer working for different sectors, like radiocommunication, insurance or finance.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  The technical stack that I have the most experience working with is:
+    <mark>Java</mark>,
+    <mark>Spring Boot</mark>,
+    <mark>PostgreSQL</mark>,
+    <mark>Git</mark>,
+    <mark>Gradle</mark>,
+    <mark>Maven</mark>,
+    <mark>AWS</mark>
+
+  I am currently based in Singapore but looking to relocate back to France. I am looking for a <mark>full remote</mark> job as Java/Spring developper.
 
 # Projects Section
 # projects_title: Projects
@@ -38,16 +47,14 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: When I'm not programming
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  I really love traveling around the world. I have been travelling to many countries, mainly in Europe and Asia. Check my [Flickr](https://www.flickr.com/photos/yahyabaassou/) account to have a look on some pictures.
+
+  I also do a lot of sports such as soccer, tennis, badminton, running, ...
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

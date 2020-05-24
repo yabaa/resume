@@ -1,9 +1,54 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Zenika - Singapore
+  link: https://www.zenika.com/
+  jobs:
+    - title: Contract Java Engineer - GIC
+      dates: February 2020 - Present
+    - title: Contract Java Engineer - Lumiq
+      dates: March 2019 - January 2020
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Technological and organizational innovation. Building together a simpler, more open, freer and accessible world. ~ Zenika
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    - [GIC](https://www.gic.com.sg/):
+        -	Development of an ETL for internal users to view instruments performance attributes
+        -	Acting as a Backend Developer: Java 11, Scala 11 & 13, Akka and Spark.
+        -	TDD with units tests (Mockito, JUnit, ScalaTest).
+        -	Environment: Jenkins, ElectricFlow, Git, Gradle, JIRA, Confluence.
+        -	Working in an agile environment.
+    - [Lumiq](https://lumiq.com/):
+        -	Development of microservices web application (REST) for a FinTech startup.
+        -	Acting as a Backend Developer: Java 11 and Spring Boot.
+        -	TDD with units and integrations tests (Mockito, JUnit) and acceptance tests using Gauge library.
+        -	Working closely with DevOps team and manage deployment and CI using GitHub and Concourse pipelines.
+        -	Daily use of Git, Maven, Docker, Kubernetes, Concourse pipelines, Argo, JIRA, Confluence.
+        -	Working in an agile environment.
+- layout: left
+  company: Ekino - France
+  link: https://www.ekino.com/
+  job_title: Java Engineer
+  dates: June 2017 - November 2018
+  quote: >
+   Turning business objectives into bespoke digital services. ~ Ekino
+  description: | # this will include new lines to allow paragraphs
+    -	Development of web application (REST) for a large French Banking Group.
+    -	Application for customer advisor, which allows them to advise their customer about their loans insurances. The application was stored on AWS.
+    -	Act as a Backend Developer: Java 8 and Spring Boot.
+    -	TDD with units and integrations tests (Mockito, JUnit).
+    -	Continuous delivery with respect of Gitflow.
+    -	Daily use of Git, Maven, Docker, AWS, JIRA, Confluence.
+    -	Working on Agile projects in a Start-up environment, with French, London and Vietnamese teams.
+- layout: left
+  company: Worldcast Systems - France
+  link: https://www.worldcastsystems.com/en/
+  jobs:
+    - title: Software Engineer
+      dates: September 2015 - May 2017
+    - title: Software Engineer (apprentice)
+      dates: September 2012 - August 2015
+  quote: >
+   WorldCast Systems is a broadcast industry veteran with over 60 years of experience engineering advanced radio and tv solutions.
+  description: | # this will include new lines to allow paragraphs
+    -	Wrote and implemented software for automation tests. Before delivering it to a customer, we need to ensure that the product complies with the request. For this, we perform a series of tests.
+    -	Developed test reports and database management. At the end of the test process, a report is generated.
+    -	Development and maintenance of Broadcast Manager (supervision tool for broadcasters). This tool includes several languages and technologies (ASP, JS, C++, Java, HTML, CSS).
+    -	Customer training about Broadcast Manager’s news releases (US, Germany, …)
